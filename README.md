@@ -1,5 +1,5 @@
 # CutieEditor
-A TextEditor that supports .NET Console applications
+A TextEditor that supports .NET Console applications including WinForms, WPF, ASP.Net
 
     Choose a Development Environment:
     You can use Visual Studio. These tools provide excellent support for .NET development.
