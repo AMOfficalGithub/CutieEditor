@@ -1,4 +1,5 @@
 # CutieEditor
+
 A TextEditor that supports .NET Console applications including WPF, ASP.Net and CLI programs.
 
   Key Features for the TextEditor:
